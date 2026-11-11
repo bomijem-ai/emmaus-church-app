@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/emmaus-church-app/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="엠마오교회 성도 요람">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <!--
+    내장 한글 폰트(Paperlogy 서브셋)를 미리 받아둡니다.
+    HTML 로딩 화면의 "불러오는 중…" 글자가 시스템 폰트로 먼저 그려졌다가
+    폰트가 바뀌면서 깜빡이는 현상(FOUT)을 막습니다.
+    Flutter 번들 안의 폰트와 동일한 파일이라 추가 중복 다운로드는 없습니다.
+  -->
+  <style>
+    @font-face {
+      font-family: 'Paperlogy';
+      src: url('assets/assets/fonts/Paperlogy-400.ttf') format('truetype');
+      font-weight: 400;
+      font-display: block;
+    }
+    @font-face {
+      font-family: 'Paperlogy';
+      src: url('assets/assets/fonts/Paperlogy-700.ttf') format('truetype');
+      font-weight: 700;
+      font-display: block;
+    }
+  </style>
+  <link rel="preload" href="assets/assets/fonts/Paperlogy-400.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="assets/assets/fonts/Paperlogy-700.ttf" as="font" type="font/ttf" crossorigin>
+
+  <!-- Firebase / Storage 연결을 미리 열어 첫 이미지 로딩 지연 완화 -->
+  <link rel="preconnect" href="https://firestore.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://firebasestorage.googleapis.com" crossorigin>
+  <link rel="dns-prefetch" href="https://firebasestorage.googleapis.com">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="엠마오교회 요람">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>엠마오교회 요람</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <!--
+    앱 첫 프레임 전 로딩 화면.
+    Flutter가 그리는 로딩/홈 화면과 완전히 동일한 흰 배경 + 엠마오 로고를
+    사용해, 시작 화면이 여러 번 바뀌는 것처럼 보이지 않게 했습니다.
+  -->
+  <div id="loading" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#FFFFFF;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Malgun Gothic','Apple SD Gothic Neo','Paperlogy',sans-serif;transition:opacity .3s ease-out;">
+    <img
+      src="assets/assets/images/emmaus_logo.png"
+      alt=""
+      style="width:74%;max-width:360px;height:auto;"
+      onerror="this.style.display='none';document.getElementById('fallbackTitle').style.display='block';"
+    >
+    <div id="fallbackTitle" style="display:none;font-size:20px;font-weight:700;color:#333;letter-spacing:-.5px;">엠마오교회</div>
+
+    <div style="width:26px;height:26px;margin-top:32px;border:2.5px solid #E3EBF5;border-top-color:#5A96CF;border-radius:50%;animation:spin .85s linear infinite;"></div>
+    <div style="margin-top:14px;font-size:13px;color:#9AAFC7;letter-spacing:.2px;">불러오는 중…</div>
+  </div>
+  <style>
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+  <script>
+    // Flutter 첫 프레임이 그려지면 로딩 화면을 서서히 감춥니다.
+    // (Flutter 쪽도 동일한 배경/로고라 전환이 거의 보이지 않습니다)
+    window.addEventListener('flutter-first-frame', function () {
+      var el = document.getElementById('loading');
+      if (el) {
+        el.style.opacity = '0';
+        setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el); }, 320);
+      }
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

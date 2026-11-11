@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "115",
+    "name": "강미정",
+    "photoUrl": null,
+    "age": 58,
+    "phoneNumber": "010-3383-3509",
+    "position": "여자집사",
+    "community": "벧엘공동체",
+    "family": [
+      {
+        "name": "장용석",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "1",
+    "name": "강선희",
+    "photoUrl": null,
+    "age": 47,
+    "phoneNumber": "010-9506-7711",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "31",
+    "name": "강성영",
+    "photoUrl": null,
+    "age": 77,
+    "phoneNumber": "010-4113-8335",
+    "position": "명예권사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "156",
+    "name": "강창호",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-2790-0169",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "201",
+    "name": "강해수",
+    "photoUrl": null,
+    "age": 82,
+    "phoneNumber": "010-3457-8242",
+    "position": "명예집사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "김태숙",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "158",
+    "name": "강현주",
+    "photoUrl": null,
+    "age": 62,
+    "phoneNumber": "010-9103-8113",
+    "position": "시무권사",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "80",
+    "name": "고성회",
+    "photoUrl": null,
+    "age": 64,
+    "phoneNumber": "010-5524-6328",
+    "position": "시무권사",
+    "community": "노아공동체",
+    "family": [
+      {
+        "name": "신기환",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "33",
+    "name": "고영태",
+    "photoUrl": null,
+    "age": 56,
+    "phoneNumber": "010-2850-5224",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "63",
+    "name": "구춘옥",
+    "photoUrl": null,
+    "age": 62,
+    "phoneNumber": "010-5573-3203",
+    "position": "시무권사",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "314",
+    "name": "권순영",
+    "photoUrl": null,
+    "age": 68,
+    "phoneNumber": "010-8162-7705",
+    "position": "여자집사",
+    "community": "임마누엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "95",
+    "name": "권영길",
+    "photoUrl": null,
+    "age": 82,
+    "phoneNumber": "010-3510-5055",
+    "position": "성도",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "296",
+    "name": "권오익",
+    "photoUrl": null,
+    "age": 61,
+    "phoneNumber": "010-6798-4565",
+    "position": "협동안수집사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "이찬희",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "136",
+    "name": "권정숙",
+    "photoUrl": null,
+    "age": 84,
+    "phoneNumber": "010-8311-1265",
+    "position": "명예권사",
+    "community": "사랑공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "335",
+    "name": "권희선",
+    "photoUrl": null,
+    "age": 94,
+    "phoneNumber": "010-2555-0821",
+    "position": "은퇴권사",
+    "community": "충성공동체",
+    "family": [
+      {
+        "name": "차지민",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "233",
+    "name": "김경묵",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-9881-7116",
+    "position": "안수집사",
+    "community": "여호와이레공동체",
+    "family": [
+      {
+        "name": "정명화",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "65",
+    "name": "김경숙",
+    "photoUrl": null,
+    "age": 53,
+    "phoneNumber": "010-9588-4891",
+    "position": "여자집사",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "67",
+    "name": "김경순",
+    "photoUrl": null,
+    "age": 79,
+    "phoneNumber": "010-6387-8712",
+    "position": "성도",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "203",
+    "name": "김경애",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-5771-5256",
+    "position": "성도",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "117",
+    "name": "김경희",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-5040-4750",
+    "position": "시무권사",
+    "community": "벧엘공동체",
+    "family": [
+      {
+        "name": "이종락",
+        "relationship": "배우자"
+      },
+      {
+        "name": "이동건",
+        "relationship": "자녀"
+      },
+      {
+        "name": "이치선",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "69",
+    "name": "김금희",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-7197-7457",
+    "position": "여자집사",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "181",
+    "name": "김맹엽",
+    "photoUrl": null,
+    "age": 60,
+    "phoneNumber": "010-9508-1456",
+    "position": "협동권사",
+    "community": "실로암공동체",
+    "family": [
+      {
+        "name": "임재남",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "258",
+    "name": "김미라",
+    "photoUrl": null,
+    "age": 47,
+    "phoneNumber": "010-2881-5001",
+    "position": "여자집사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "박창용",
+        "relationship": "배우자"
+      },
+      {
+        "name": "박하람",
+        "relationship": "자녀"
+      },
+      {
+        "name": "박하혜",
+        "relationship": "자녀"
+      },
+      {
+        "name": "박하음",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "204",
+    "name": "김미라2",
+    "photoUrl": null,
+    "age": 0,
+    "phoneNumber": "010-4102-5442",
+    "position": "성도",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "337",
+    "name": "김미숙",
+    "photoUrl": null,
+    "age": 62,
+    "phoneNumber": "010-2356-2360",
+    "position": "여자집사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "119",
+    "name": "김선례",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-9163-8706",
+    "position": "여자집사",
+    "community": "벧엘공동체",
+    "family": [
+      {
+        "name": "윤채은",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "316",
+    "name": "김선화",
+    "photoUrl": null,
+    "age": 61,
+    "phoneNumber": "010-2867-7758",
+    "position": "여자집사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "장진섭",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "96",
+    "name": "김성일",
+    "photoUrl": null,
+    "age": 78,
+    "phoneNumber": "010-7580-2471",
+    "position": "명예집사",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "160",
+    "name": "김성조",
+    "photoUrl": null,
+    "age": 65,
+    "phoneNumber": "010-8111-6643",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "276",
+    "name": "김송이",
+    "photoUrl": null,
+    "age": 34,
+    "phoneNumber": "010-8872-0973",
+    "position": "청년부",
+    "community": "온유공동체",
+    "family": [
+      {
+        "name": "윤선명",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김지환",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김예지",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "34",
+    "name": "김수미",
+    "photoUrl": null,
+    "age": 67,
+    "phoneNumber": "010-4410-9860",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "235",
+    "name": "김수연",
+    "photoUrl": null,
+    "age": 68,
+    "phoneNumber": "010-5151-8720",
+    "position": "여자집사",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "71",
+    "name": "김수필",
+    "photoUrl": null,
+    "age": 76,
+    "phoneNumber": "010-7130-8367",
+    "position": "명예집사",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "98",
+    "name": "김숙희",
+    "photoUrl": null,
+    "age": 74,
+    "phoneNumber": "010-3581-6255",
+    "position": "명예권사",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "205",
+    "name": "김순가",
+    "photoUrl": null,
+    "age": 75,
+    "phoneNumber": "010-2791-2379",
+    "position": "명예권사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "진이규",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "3",
+    "name": "김승훈",
+    "photoUrl": null,
+    "age": 44,
+    "phoneNumber": "010-3186-6344",
+    "position": "안수집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "서보미",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김예봄",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김예온",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "207",
+    "name": "김시연",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-9434-9274",
+    "position": "시무장로",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "이정란",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김정우",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김주은",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "162",
+    "name": "김신자",
+    "photoUrl": null,
+    "age": 84,
+    "phoneNumber": "010-524-8397",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "278",
+    "name": "김양숙",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-7588-5696",
+    "position": "여자집사",
+    "community": "온유공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "237",
+    "name": "김여만",
+    "photoUrl": null,
+    "age": 82,
+    "phoneNumber": "010-5103-5335",
+    "position": "은퇴권사",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "138",
+    "name": "김연옥",
+    "photoUrl": null,
+    "age": 78,
+    "phoneNumber": "201-3399-4936",
+    "position": "명예집사",
+    "community": "사랑공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "140",
+    "name": "김영미",
+    "photoUrl": null,
+    "age": 56,
+    "phoneNumber": "010-2666-8917",
+    "position": "성도",
+    "community": "사랑공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "163",
+    "name": "김영선",
+    "photoUrl": null,
+    "age": 87,
+    "phoneNumber": "010-8455-5016",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "280",
+    "name": "김영순",
+    "photoUrl": null,
+    "age": 84,
+    "phoneNumber": "010-9664-4480",
+    "position": "은퇴전입권사",
+    "community": "온유공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "339",
+    "name": "김영희",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-9181-3629",
+    "position": "은퇴권사",
+    "community": "충성공동체",
+    "family": [
+      {
+        "name": "최학균",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "282",
+    "name": "김예지",
+    "photoUrl": null,
+    "age": 32,
+    "phoneNumber": "010-5518-0973",
+    "position": "청년부",
+    "community": "온유공동체",
+    "family": [
+      {
+        "name": "윤선명",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김지환",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김송이",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "73",
+    "name": "김우인",
+    "photoUrl": null,
+    "age": 80,
+    "phoneNumber": "",
+    "position": "성도",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "5",
+    "name": "김정권",
+    "photoUrl": null,
+    "age": 45,
+    "phoneNumber": "010-5157-0190",
+    "position": "안수집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "문현정",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김하린",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김하임",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "35",
+    "name": "김정수",
+    "photoUrl": null,
+    "age": 77,
+    "phoneNumber": "010-2215-9502",
+    "position": "명예집사",
+    "community": "감사공동체",
+    "family": [
+      {
+        "name": "이선영",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "298",
+    "name": "김종필",
+    "photoUrl": null,
+    "age": 52,
+    "phoneNumber": "010-3906-6172",
+    "position": "성도",
+    "community": "이음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "284",
+    "name": "김지환",
+    "photoUrl": null,
+    "age": 62,
+    "phoneNumber": "010-5488-0973",
+    "position": "남자집사",
+    "community": "온유공동체",
+    "family": [
+      {
+        "name": "윤선명",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김송이",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김예지",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "141",
+    "name": "김진호",
+    "photoUrl": null,
+    "age": 76,
+    "phoneNumber": "010-3133-8811",
+    "position": "은퇴안수집사",
+    "community": "사랑공동체",
+    "family": [
+      {
+        "name": "신판숙",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "239",
+    "name": "김청자",
+    "photoUrl": null,
+    "age": 82,
+    "phoneNumber": "010-3710-3844",
+    "position": "명예권사",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "183",
+    "name": "김초선",
+    "photoUrl": null,
+    "age": 68,
+    "phoneNumber": "010-3724-9915",
+    "position": "여자집사",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "341",
+    "name": "김치영",
+    "photoUrl": null,
+    "age": 75,
+    "phoneNumber": "010-4421-9755",
+    "position": "은퇴안수집사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "209",
+    "name": "김태숙",
+    "photoUrl": null,
+    "age": 82,
+    "phoneNumber": "010-3885-8242",
+    "position": "명예권사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "강해수",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "pastor_001",
+    "name": "김태일",
+    "photoUrl": null,
+    "age": 54,
+    "phoneNumber": "010-5690-3936",
+    "position": "담임목사",
+    "community": "",
+    "family": [
+      {
+        "name": "신호영",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김사랑",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김이레",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "185",
+    "name": "김현주",
+    "photoUrl": null,
+    "age": 0,
+    "phoneNumber": "010-5482-9532",
+    "position": "성도",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "7",
+    "name": "김혜랑",
+    "photoUrl": null,
+    "age": 40,
+    "phoneNumber": "010-7471-2547",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "이용성",
+        "relationship": "배우자"
+      },
+      {
+        "name": "이소율",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "37",
+    "name": "김화영",
+    "photoUrl": null,
+    "age": 46,
+    "phoneNumber": "010-9616-6295",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "286",
+    "name": "남명순",
+    "photoUrl": null,
+    "age": 87,
+    "phoneNumber": "010-7333-1277",
+    "position": "은퇴권사",
+    "community": "온유공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "318",
+    "name": "남재삼",
+    "photoUrl": null,
+    "age": 78,
+    "phoneNumber": "010-8590-4276",
+    "position": "명예집사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "최문자",
+        "relationship": "배우자"
+      },
+      {
+        "name": "남주현",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "320",
+    "name": "남주현",
+    "photoUrl": null,
+    "age": 53,
+    "phoneNumber": "010-8729-0120",
+    "position": "성도",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "최문자",
+        "relationship": "배우자"
+      },
+      {
+        "name": "남재삼",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "9",
+    "name": "류효성",
+    "photoUrl": null,
+    "age": 41,
+    "phoneNumber": "010-6862-9865",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "박영준",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "186",
+    "name": "문현아",
+    "photoUrl": null,
+    "age": 58,
+    "phoneNumber": "010-3491-9891",
+    "position": "여자집사",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "11",
+    "name": "문현정",
+    "photoUrl": null,
+    "age": 45,
+    "phoneNumber": "010-9370-0877",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "김정권",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김하린",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김하임",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "211",
+    "name": "박귀순",
+    "photoUrl": null,
+    "age": 84,
+    "phoneNumber": "010-7397-4009",
+    "position": "은퇴권사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "38",
+    "name": "박규순",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-4567-0071",
+    "position": "명예권사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "165",
+    "name": "박명숙",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-8544-1676",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "40",
+    "name": "박명출",
+    "photoUrl": null,
+    "age": 81,
+    "phoneNumber": "010-8386-5100",
+    "position": "명예권사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "13",
+    "name": "박미림",
+    "photoUrl": null,
+    "age": 37,
+    "phoneNumber": "010-2970-7071",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "이성진",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "166",
+    "name": "박상우",
+    "photoUrl": null,
+    "age": 68,
+    "phoneNumber": "010-6847-6214",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "168",
+    "name": "박선영",
+    "photoUrl": null,
+    "age": 45,
+    "phoneNumber": "010-4276-4888",
+    "position": "여자집사",
+    "community": "샬롬공동체",
+    "family": [
+      {
+        "name": "장예진",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "170",
+    "name": "박순옥",
+    "photoUrl": null,
+    "age": 97,
+    "phoneNumber": "051-522-3490",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "343",
+    "name": "박애순",
+    "photoUrl": null,
+    "age": 85,
+    "phoneNumber": "010-3156-2137",
+    "position": "명예권사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "100",
+    "name": "박영숙",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-4767-9083",
+    "position": "은퇴권사",
+    "community": "믿음공동체",
+    "family": [
+      {
+        "name": "유보종",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "15",
+    "name": "박영준",
+    "photoUrl": null,
+    "age": 50,
+    "phoneNumber": "010-2025-7054",
+    "position": "남자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "류효성",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "74",
+    "name": "박옥엽",
+    "photoUrl": null,
+    "age": 81,
+    "phoneNumber": "010-5100-9855",
+    "position": "명예집사",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "172",
+    "name": "박용필",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-3023-3452",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [
+      {
+        "name": "최선희",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "241",
+    "name": "박윤호",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-3846-5933",
+    "position": "성도",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "188",
+    "name": "박자옥",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-5252-3954",
+    "position": "성도",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "17",
+    "name": "박재성",
+    "photoUrl": null,
+    "age": 48,
+    "phoneNumber": "010-4001-1225",
+    "position": "남자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "장하원",
+        "relationship": "배우자"
+      },
+      {
+        "name": "박선우",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "345",
+    "name": "박진옥",
+    "photoUrl": null,
+    "age": 71,
+    "phoneNumber": "010-6574-4502",
+    "position": "여자집사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "260",
+    "name": "박창용",
+    "photoUrl": null,
+    "age": 49,
+    "phoneNumber": "010-6560-8248",
+    "position": "남자집사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "김미라",
+        "relationship": "배우자"
+      },
+      {
+        "name": "박하람",
+        "relationship": "자녀"
+      },
+      {
+        "name": "박하혜",
+        "relationship": "자녀"
+      },
+      {
+        "name": "박하음",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "300",
+    "name": "박철홍",
+    "photoUrl": null,
+    "age": 58,
+    "phoneNumber": "010-6389-7113",
+    "position": "남자집사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "배연주",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "302",
+    "name": "배연주",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-2361-6255",
+    "position": "여자집사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "박철홍",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "213",
+    "name": "백명선",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-9800-8191",
+    "position": "은퇴권사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "19",
+    "name": "서보미",
+    "photoUrl": null,
+    "age": 42,
+    "phoneNumber": "010-2626-6266",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "김승훈",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김예봄",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김예온",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "215",
+    "name": "서정애",
+    "photoUrl": null,
+    "age": 85,
+    "phoneNumber": "011-853-0758",
+    "position": "명예권사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "42",
+    "name": "서화선",
+    "photoUrl": null,
+    "age": 73,
+    "phoneNumber": "010-0103-4836295",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "217",
+    "name": "석금자",
+    "photoUrl": null,
+    "age": 71,
+    "phoneNumber": "010-9694-7272",
+    "position": "은퇴권사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "76",
+    "name": "설경옥",
+    "photoUrl": null,
+    "age": 75,
+    "phoneNumber": "010-5025-6601",
+    "position": "명예집사",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "189",
+    "name": "손성련",
+    "photoUrl": null,
+    "age": 73,
+    "phoneNumber": "010-6450-4110",
+    "position": "명예집사",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "121",
+    "name": "손주환",
+    "photoUrl": null,
+    "age": 0,
+    "phoneNumber": "",
+    "position": "성도",
+    "community": "벧엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "102",
+    "name": "손태순",
+    "photoUrl": null,
+    "age": 78,
+    "phoneNumber": "010-5110-4908",
+    "position": "성도",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "262",
+    "name": "송호희",
+    "photoUrl": null,
+    "age": 52,
+    "phoneNumber": "010-2266-6014",
+    "position": "여자집사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "오욱세",
+        "relationship": "배우자"
+      },
+      {
+        "name": "오지민",
+        "relationship": "자녀"
+      },
+      {
+        "name": "오지우",
+        "relationship": "자녀"
+      },
+      {
+        "name": "오지율",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "82",
+    "name": "신기환",
+    "photoUrl": null,
+    "age": 67,
+    "phoneNumber": "010-2835-1025",
+    "position": "은퇴장로",
+    "community": "노아공동체",
+    "family": [
+      {
+        "name": "고성회",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "191",
+    "name": "신미경",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-9811-9732",
+    "position": "여자집사",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "304",
+    "name": "신숙란",
+    "photoUrl": null,
+    "age": 63,
+    "phoneNumber": "010-2205-7334",
+    "position": "여자집사",
+    "community": "이음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "103",
+    "name": "신인숙",
+    "photoUrl": null,
+    "age": 71,
+    "phoneNumber": "010-6562-9430",
+    "position": "명예권사",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "143",
+    "name": "신판숙",
+    "photoUrl": null,
+    "age": 76,
+    "phoneNumber": "010-9517-2525",
+    "position": "은퇴권사",
+    "community": "사랑공동체",
+    "family": [
+      {
+        "name": "김진호",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "pastor_002",
+    "name": "신호영",
+    "photoUrl": null,
+    "age": 46,
+    "phoneNumber": "010-9919-0314",
+    "position": "사모",
+    "community": "",
+    "family": [
+      {
+        "name": "김태일",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김사랑",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김이레",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "43",
+    "name": "안병일",
+    "photoUrl": null,
+    "age": 77,
+    "phoneNumber": "010-0103-8339693",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "44",
+    "name": "안영남",
+    "photoUrl": null,
+    "age": 85,
+    "phoneNumber": "010-2520-0580",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "242",
+    "name": "안종숙",
+    "photoUrl": null,
+    "age": 59,
+    "phoneNumber": "010-7257-4013",
+    "position": "시무권사",
+    "community": "여호와이레공동체",
+    "family": [
+      {
+        "name": "엄재용",
+        "relationship": "배우자"
+      },
+      {
+        "name": "엄지은",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "244",
+    "name": "엄재용",
+    "photoUrl": null,
+    "age": 60,
+    "phoneNumber": "010-4279-7031",
+    "position": "시무장로",
+    "community": "여호와이레공동체",
+    "family": [
+      {
+        "name": "안종숙",
+        "relationship": "배우자"
+      },
+      {
+        "name": "엄지은",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "246",
+    "name": "오명순",
+    "photoUrl": null,
+    "age": 76,
+    "phoneNumber": "010-6317-0362",
+    "position": "명예권사",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "264",
+    "name": "오욱세",
+    "photoUrl": null,
+    "age": 53,
+    "phoneNumber": "010-6471-6014",
+    "position": "남자집사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "송호희",
+        "relationship": "배우자"
+      },
+      {
+        "name": "오지민",
+        "relationship": "자녀"
+      },
+      {
+        "name": "오지우",
+        "relationship": "자녀"
+      },
+      {
+        "name": "오지율",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "84",
+    "name": "오종열",
+    "photoUrl": null,
+    "age": 71,
+    "phoneNumber": "010-5601-5350",
+    "position": "성도",
+    "community": "노아공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "219",
+    "name": "오화진",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-5794-7521",
+    "position": "여자집사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "105",
+    "name": "유보종",
+    "photoUrl": null,
+    "age": 76,
+    "phoneNumber": "010-8543-9083",
+    "position": "은퇴안수집사",
+    "community": "믿음공동체",
+    "family": [
+      {
+        "name": "박영숙",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "145",
+    "name": "유순옥",
+    "photoUrl": null,
+    "age": 73,
+    "phoneNumber": "010-5318-3090",
+    "position": "명예권사",
+    "community": "사랑공동체",
+    "family": [
+      {
+        "name": "임경덕",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "288",
+    "name": "윤선명",
+    "photoUrl": null,
+    "age": 63,
+    "phoneNumber": "010-6300-3712",
+    "position": "시무권사",
+    "community": "온유공동체",
+    "family": [
+      {
+        "name": "김지환",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김송이",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김예지",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "122",
+    "name": "윤채은",
+    "photoUrl": null,
+    "age": 55,
+    "phoneNumber": "010-2009-6753",
+    "position": "성도",
+    "community": "벧엘공동체",
+    "family": [
+      {
+        "name": "김선례",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "85",
+    "name": "이귀옥",
+    "photoUrl": null,
+    "age": 62,
+    "phoneNumber": "010-4662-1153",
+    "position": "성도",
+    "community": "노아공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "124",
+    "name": "이규학",
+    "photoUrl": null,
+    "age": 65,
+    "phoneNumber": "010-6639-1250",
+    "position": "남자집사",
+    "community": "벧엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "45",
+    "name": "이금선",
+    "photoUrl": null,
+    "age": 78,
+    "phoneNumber": "010-4596-8182",
+    "position": "은퇴권사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "174",
+    "name": "이길여",
+    "photoUrl": null,
+    "age": 81,
+    "phoneNumber": "010-4999-0577",
+    "position": "여자집사",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "248",
+    "name": "이명우",
+    "photoUrl": null,
+    "age": 71,
+    "phoneNumber": "010-9667-4471",
+    "position": "명예집사",
+    "community": "여호와이레공동체",
+    "family": [
+      {
+        "name": "이유순",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "221",
+    "name": "이미숙",
+    "photoUrl": null,
+    "age": 64,
+    "phoneNumber": "010-4803-2635",
+    "position": "여자집사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "정태영",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "126",
+    "name": "이상만",
+    "photoUrl": null,
+    "age": 63,
+    "phoneNumber": "010-2220-9906",
+    "position": "남자집사",
+    "community": "벧엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "47",
+    "name": "이선영",
+    "photoUrl": null,
+    "age": 67,
+    "phoneNumber": "010-3911-9502",
+    "position": "여자집사",
+    "community": "감사공동체",
+    "family": [
+      {
+        "name": "김정수",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "21",
+    "name": "이성진",
+    "photoUrl": null,
+    "age": 42,
+    "phoneNumber": "010-7134-8577",
+    "position": "남자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "박미림",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "107",
+    "name": "이순덕",
+    "photoUrl": null,
+    "age": 80,
+    "phoneNumber": "010-5397-5696",
+    "position": "은퇴권사",
+    "community": "믿음공동체",
+    "family": [
+      {
+        "name": "주달웅",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "109",
+    "name": "이순옥",
+    "photoUrl": null,
+    "age": 75,
+    "phoneNumber": "010-2813-8165",
+    "position": "명예권사",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "290",
+    "name": "이양옥",
+    "photoUrl": null,
+    "age": 58,
+    "phoneNumber": "010-8878-6021",
+    "position": "시무권사",
+    "community": "온유공동체",
+    "family": [
+      {
+        "name": "지태화",
+        "relationship": "배우자"
+      },
+      {
+        "name": "지경선",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "193",
+    "name": "이영욱",
+    "photoUrl": null,
+    "age": 64,
+    "phoneNumber": "010-5026-9347",
+    "position": "여자집사",
+    "community": "실로암공동체",
+    "family": [
+      {
+        "name": "최삼태",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "306",
+    "name": "이옥연",
+    "photoUrl": null,
+    "age": 74,
+    "phoneNumber": "010-4006-0499",
+    "position": "은퇴권사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "전정임",
+        "relationship": "배우자"
+      },
+      {
+        "name": "이예은",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "23",
+    "name": "이용성",
+    "photoUrl": null,
+    "age": 43,
+    "phoneNumber": "010-5218-0246",
+    "position": "남자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "김혜랑",
+        "relationship": "배우자"
+      },
+      {
+        "name": "이소율",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "250",
+    "name": "이유순",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-8383-5221",
+    "position": "여자집사",
+    "community": "여호와이레공동체",
+    "family": [
+      {
+        "name": "이명우",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "266",
+    "name": "이은희",
+    "photoUrl": null,
+    "age": 55,
+    "phoneNumber": "010-3915-5719",
+    "position": "시무권사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "주경훈",
+        "relationship": "배우자"
+      },
+      {
+        "name": "주창대",
+        "relationship": "자녀"
+      },
+      {
+        "name": "주예주",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "223",
+    "name": "이정란",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-5426-9274",
+    "position": "시무권사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "김시연",
+        "relationship": "배우자"
+      },
+      {
+        "name": "김정우",
+        "relationship": "자녀"
+      },
+      {
+        "name": "김주은",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "78",
+    "name": "이정화",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-3591-8884",
+    "position": "성도",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "87",
+    "name": "이종락",
+    "photoUrl": null,
+    "age": 65,
+    "phoneNumber": "010-8525-4752",
+    "position": "안수집사",
+    "community": "노아공동체",
+    "family": [
+      {
+        "name": "김경희",
+        "relationship": "배우자"
+      },
+      {
+        "name": "이동건",
+        "relationship": "자녀"
+      },
+      {
+        "name": "이치선",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "268",
+    "name": "이주경",
+    "photoUrl": null,
+    "age": 50,
+    "phoneNumber": "010-6591-4480",
+    "position": "여자집사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "조동준",
+        "relationship": "배우자"
+      },
+      {
+        "name": "조경빈",
+        "relationship": "자녀"
+      },
+      {
+        "name": "조혜빈",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "128",
+    "name": "이주현",
+    "photoUrl": null,
+    "age": 55,
+    "phoneNumber": "010-4857-9368",
+    "position": "성도",
+    "community": "벧엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "pastor_003",
+    "name": "이지연",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-9332-0581",
+    "position": "부목사",
+    "community": "엠마오공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "308",
+    "name": "이찬희",
+    "photoUrl": null,
+    "age": 58,
+    "phoneNumber": "010-9387-7762",
+    "position": "협동권사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "권오익",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "292",
+    "name": "이현옥",
+    "photoUrl": null,
+    "age": 74,
+    "phoneNumber": "010-2582-1590",
+    "position": "명예권사",
+    "community": "온유공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "147",
+    "name": "임경덕",
+    "photoUrl": null,
+    "age": 77,
+    "phoneNumber": "010-6678-3090",
+    "position": "은퇴안수집사",
+    "community": "사랑공동체",
+    "family": [
+      {
+        "name": "유순옥",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "49",
+    "name": "임순덕",
+    "photoUrl": null,
+    "age": 92,
+    "phoneNumber": "010-2558-2352",
+    "position": "명예집사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "321",
+    "name": "임순자",
+    "photoUrl": null,
+    "age": 68,
+    "phoneNumber": "010-4856-7637",
+    "position": "여자집사",
+    "community": "임마누엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "129",
+    "name": "임재남",
+    "photoUrl": null,
+    "age": 65,
+    "phoneNumber": "010-6552-5303",
+    "position": "안수집사",
+    "community": "벧엘공동체",
+    "family": [
+      {
+        "name": "김맹엽",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "51",
+    "name": "임정자",
+    "photoUrl": null,
+    "age": 82,
+    "phoneNumber": "010-5544-3722",
+    "position": "명예집사",
+    "community": "감사공동체",
+    "family": [
+      {
+        "name": "진철수",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "252",
+    "name": "장명희",
+    "photoUrl": null,
+    "age": 83,
+    "phoneNumber": "010-2880-7031",
+    "position": "은퇴권사",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "176",
+    "name": "장예진",
+    "photoUrl": null,
+    "age": 47,
+    "phoneNumber": "010-9504-9104",
+    "position": "남자집사",
+    "community": "샬롬공동체",
+    "family": [
+      {
+        "name": "박선영",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "131",
+    "name": "장용석",
+    "photoUrl": null,
+    "age": 64,
+    "phoneNumber": "010-3883-3509",
+    "position": "안수집사",
+    "community": "벧엘공동체",
+    "family": [
+      {
+        "name": "강미정",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "323",
+    "name": "장정숙",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-5045-9253",
+    "position": "은퇴권사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "정원철",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "325",
+    "name": "장진섭",
+    "photoUrl": null,
+    "age": 63,
+    "phoneNumber": "010-2884-7897",
+    "position": "남자집사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "김선화",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "25",
+    "name": "장하원",
+    "photoUrl": null,
+    "age": 46,
+    "phoneNumber": "010-3638-2981",
+    "position": "여자집사",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "박재성",
+        "relationship": "배우자"
+      },
+      {
+        "name": "박선우",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "27",
+    "name": "전유라",
+    "photoUrl": null,
+    "age": 42,
+    "phoneNumber": "010-8922-4625",
+    "position": "성도",
+    "community": "하모공동체",
+    "family": [
+      {
+        "name": "안유준",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "53",
+    "name": "전정옥",
+    "photoUrl": null,
+    "age": 60,
+    "phoneNumber": "010-4541-2714",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "195",
+    "name": "전정임",
+    "photoUrl": null,
+    "age": 55,
+    "phoneNumber": "010-3381-0469",
+    "position": "여자집사",
+    "community": "실로암공동체",
+    "family": [
+      {
+        "name": "이옥연",
+        "relationship": "배우자"
+      },
+      {
+        "name": "이예은",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "54",
+    "name": "정경숙",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-8540-6344",
+    "position": "명예권사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "347",
+    "name": "정맹순",
+    "photoUrl": null,
+    "age": 87,
+    "phoneNumber": "010-5047-2933",
+    "position": "은퇴권사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "254",
+    "name": "정명화",
+    "photoUrl": null,
+    "age": 67,
+    "phoneNumber": "010-3582-2708",
+    "position": "은퇴권사",
+    "community": "여호와이레공동체",
+    "family": [
+      {
+        "name": "김경묵",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "225",
+    "name": "정성윤",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-4845-2672",
+    "position": "여자집사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "133",
+    "name": "정영미",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-9060-9828",
+    "position": "성도",
+    "community": "벧엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "327",
+    "name": "정원철",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-2034-1080",
+    "position": "남자집사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "장정숙",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "178",
+    "name": "정윤정",
+    "photoUrl": null,
+    "age": 0,
+    "phoneNumber": "010-8905-5525",
+    "position": "성도",
+    "community": "샬롬공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "89",
+    "name": "정은영",
+    "photoUrl": null,
+    "age": 58,
+    "phoneNumber": "010-3105-3236",
+    "position": "여자집사",
+    "community": "노아공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "256",
+    "name": "정은주",
+    "photoUrl": null,
+    "age": 63,
+    "phoneNumber": "010-5488-6255",
+    "position": "시무권사",
+    "community": "여호와이레공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "227",
+    "name": "정일혜",
+    "photoUrl": null,
+    "age": 48,
+    "phoneNumber": "010-6206-5197",
+    "position": "여자집사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "정하린",
+        "relationship": "배우자"
+      },
+      {
+        "name": "정하준",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "56",
+    "name": "정종식",
+    "photoUrl": null,
+    "age": 87,
+    "phoneNumber": "010-9670-0580",
+    "position": "성도",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "57",
+    "name": "정춘옥",
+    "photoUrl": null,
+    "age": 74,
+    "phoneNumber": "010-8545-8348",
+    "position": "은퇴장로",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "270",
+    "name": "조동준",
+    "photoUrl": null,
+    "age": 50,
+    "phoneNumber": "010-9168-5069",
+    "position": "시무장로",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "이주경",
+        "relationship": "배우자"
+      },
+      {
+        "name": "조경빈",
+        "relationship": "자녀"
+      },
+      {
+        "name": "조혜빈",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "349",
+    "name": "조미남",
+    "photoUrl": null,
+    "age": 70,
+    "phoneNumber": "010-2551-5595",
+    "position": "시무권사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "59",
+    "name": "조영애",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-8511-5154",
+    "position": "여자집사",
+    "community": "감사공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "351",
+    "name": "조영자",
+    "photoUrl": null,
+    "age": 79,
+    "phoneNumber": "010-5543-6014",
+    "position": "명예권사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "91",
+    "name": "조윤옥",
+    "photoUrl": null,
+    "age": 75,
+    "phoneNumber": "010-8536-8413",
+    "position": "명예집사",
+    "community": "노아공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "93",
+    "name": "조해경",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-4228-3633",
+    "position": "여자집사",
+    "community": "노아공동체",
+    "family": [
+      {
+        "name": "박예찬",
+        "relationship": "배우자"
+      },
+      {
+        "name": "박예빈",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "149",
+    "name": "조홍숙",
+    "photoUrl": null,
+    "age": 74,
+    "phoneNumber": "010-3578-4468",
+    "position": "은퇴권사",
+    "community": "사랑공동체",
+    "family": [
+      {
+        "name": "오득환",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "272",
+    "name": "주경훈",
+    "photoUrl": null,
+    "age": 57,
+    "phoneNumber": "010-3528-5719",
+    "position": "안수집사",
+    "community": "예수마을공동체",
+    "family": [
+      {
+        "name": "이은희",
+        "relationship": "배우자"
+      },
+      {
+        "name": "주창대",
+        "relationship": "자녀"
+      },
+      {
+        "name": "주예주",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "111",
+    "name": "주달웅",
+    "photoUrl": null,
+    "age": 84,
+    "phoneNumber": "010-3561-5696",
+    "position": "명예집사",
+    "community": "믿음공동체",
+    "family": [
+      {
+        "name": "이순덕",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "294",
+    "name": "지태화",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-8711-5119",
+    "position": "남자집사",
+    "community": "온유공동체",
+    "family": [
+      {
+        "name": "이양옥",
+        "relationship": "배우자"
+      },
+      {
+        "name": "지경선",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "134",
+    "name": "진병기",
+    "photoUrl": null,
+    "age": 56,
+    "phoneNumber": "010-4478-5354",
+    "position": "남자집사",
+    "community": "벧엘공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "310",
+    "name": "진왕현",
+    "photoUrl": null,
+    "age": 67,
+    "phoneNumber": "010-9439-8029",
+    "position": "남자집사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "최금옥",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "229",
+    "name": "진이규",
+    "photoUrl": null,
+    "age": 81,
+    "phoneNumber": "010-2859-2379",
+    "position": "명예집사",
+    "community": "아멘공동체",
+    "family": [
+      {
+        "name": "김순가",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "61",
+    "name": "진철수",
+    "photoUrl": null,
+    "age": 86,
+    "phoneNumber": "010-3597-3922",
+    "position": "명예집사",
+    "community": "감사공동체",
+    "family": [
+      {
+        "name": "임정자",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "151",
+    "name": "차미숙",
+    "photoUrl": null,
+    "age": 56,
+    "phoneNumber": "010-3887-6928",
+    "position": "여자집사",
+    "community": "사랑공동체",
+    "family": [
+      {
+        "name": "박경민",
+        "relationship": "배우자"
+      },
+      {
+        "name": "박진주",
+        "relationship": "자녀"
+      },
+      {
+        "name": "박도윤",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "353",
+    "name": "차원효",
+    "photoUrl": null,
+    "age": 66,
+    "phoneNumber": "010-2555-0821",
+    "position": "남자집사",
+    "community": "충성공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "312",
+    "name": "최금옥",
+    "photoUrl": null,
+    "age": 67,
+    "phoneNumber": "010-8511-8029",
+    "position": "여자집사",
+    "community": "이음공동체",
+    "family": [
+      {
+        "name": "진왕현",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "329",
+    "name": "최문자",
+    "photoUrl": null,
+    "age": 77,
+    "phoneNumber": "010-9328-7776",
+    "position": "명예권사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "남재삼",
+        "relationship": "배우자"
+      },
+      {
+        "name": "남주현",
+        "relationship": "자녀"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "197",
+    "name": "최삼태",
+    "photoUrl": null,
+    "age": 65,
+    "phoneNumber": "010-3889-9347",
+    "position": "남자집사",
+    "community": "실로암공동체",
+    "family": [
+      {
+        "name": "이영욱",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "179",
+    "name": "최선희",
+    "photoUrl": null,
+    "age": 69,
+    "phoneNumber": "010-5174-2932",
+    "position": "여자집사",
+    "community": "샬롬공동체",
+    "family": [
+      {
+        "name": "박용필",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "113",
+    "name": "최순자",
+    "photoUrl": null,
+    "age": 77,
+    "phoneNumber": "010-5174-2932",
+    "position": "은퇴권사",
+    "community": "믿음공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "153",
+    "name": "최승관",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-3839-0087",
+    "position": "성도",
+    "community": "사랑공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "154",
+    "name": "최영자",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-9105-3179",
+    "position": "명예권사",
+    "community": "사랑공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "79",
+    "name": "최영춘",
+    "photoUrl": null,
+    "age": 64,
+    "phoneNumber": "010-8766-3203",
+    "position": "성도",
+    "community": "기쁨공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "274",
+    "name": "최원일",
+    "photoUrl": null,
+    "age": 49,
+    "phoneNumber": "010-4228-2310",
+    "position": "성도",
+    "community": "예수마을공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "355",
+    "name": "최학균",
+    "photoUrl": null,
+    "age": 72,
+    "phoneNumber": "010-4044-3619",
+    "position": "남자집사",
+    "community": "충성공동체",
+    "family": [
+      {
+        "name": "김영희",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "199",
+    "name": "허영기",
+    "photoUrl": null,
+    "age": 81,
+    "phoneNumber": "010-7304-3692",
+    "position": "명예집사",
+    "community": "실로암공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "331",
+    "name": "홍재분",
+    "photoUrl": null,
+    "age": 71,
+    "phoneNumber": "010-5374-9608",
+    "position": "은퇴권사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "황하수",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "29",
+    "name": "황세웅",
+    "photoUrl": null,
+    "age": 48,
+    "phoneNumber": "010-7942-7322",
+    "position": "안수집사",
+    "community": "하모공동체",
+    "family": [],
+    "business": null
+  },
+  {
+    "id": "333",
+    "name": "황하수",
+    "photoUrl": null,
+    "age": 74,
+    "phoneNumber": "010-5363-9608",
+    "position": "은퇴안수집사",
+    "community": "임마누엘공동체",
+    "family": [
+      {
+        "name": "홍재분",
+        "relationship": "배우자"
+      }
+    ],
+    "business": null
+  },
+  {
+    "id": "231",
+    "name": "황희정",
+    "photoUrl": null,
+    "age": 80,
+    "phoneNumber": "010-7499-0624",
+    "position": "은퇴권사",
+    "community": "아멘공동체",
+    "family": [],
+    "business": null
+  }
+]
